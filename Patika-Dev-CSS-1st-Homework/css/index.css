@@ -1,0 +1,74 @@
+body {
+  background-color: #EAE3D2;
+}
+
+/****** index css ******/
+.ul-header {
+  list-style: none outside none;
+  text-align: center;
+}
+
+.li-header {
+  position: relative;
+  display: inline;
+  margin: 20px;
+}
+
+.index-article-p {
+  color: #1C3879;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: medium;
+  margin-top: 50px;
+}
+.index-article-p2 {
+  text-align: center;
+  font-size: medium;
+  margin-top: 70px;
+}
+.ul-article {
+  text-align: center;
+  margin-top: 50px;
+}
+.li-article {
+  list-style-position: inside;
+  list-style-type: upper-roman;
+  margin-top: 20px;
+}
+.index-img {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+/***** product css *****/
+.ul-article-product {
+  text-align: center;
+  margin-top: 50px;
+}
+.li-article-product {
+  list-style-position: inside;
+  list-style-type: circle;
+  margin-top: 20px;
+}
+
+/***** about-us css *****/
+.ul-header-about-us {
+  list-style: none outside none;
+  text-align: center;
+}
+
+.li-header-about-us {
+  position: relative;
+  display: inline;
+  margin: 30px;
+}
+.article-p1-about-us {
+  text-align: center;
+  margin: 40px;
+  font-size: medium;
+  line-height: 1.6;
+}
+
+/***** second-hand css *****/
